@@ -29,11 +29,6 @@ and evaluation on multi-GPU nodes.
 - **Data Engineer Intern, Microbase (Tokyo)** - Japanese address normalisation, data
   errors cut by over 80%.
 
-### How I work
-
-Hypothesis, run, measure, adjust. I write down what I did and what it cost, so the next
-person can reproduce it. I say what a number means before showing it, and keep what I
-am sure of separate from what is still being checked.
 
 ### Tools
 
