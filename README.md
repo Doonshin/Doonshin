@@ -17,7 +17,7 @@
 
 Data Scientist Intern at the **Matsuo Institute**, on a joint research project on
 self-play reinforcement learning for LLMs. I reproduce the prior work, run the training
-and evaluation on multi-GPU nodes, and report the results to the client.
+and evaluation on multi-GPU nodes.
 
 ### Before
 
