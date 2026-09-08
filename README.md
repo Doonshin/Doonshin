@@ -2,7 +2,6 @@
 
 <p align="center">
   Computer Science, University of North Texas · graduating December 2026<br>
-  Training and evaluating large language models, and turning research into something a client can use.
 </p>
 
 <p align="center">
